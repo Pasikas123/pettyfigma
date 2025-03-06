@@ -14,7 +14,7 @@ Just open link: https://pasikas123.github.io/pettyfigma/
 
 ### Example of how it looks
 
-<img src="images/trafalgar.png">
+<img src="images/figma.png">
 
 ## Authors
 
